@@ -85,7 +85,6 @@ Word Frequency:
 hello - 2
 java - 1
 programming - 1
-is - 1
 fun - 1
 ```
 
@@ -125,11 +124,10 @@ and - 1
 algorithms - 1
 are - 1
 important - 1
-is - 1
 powerful - 1
 
 Longest Word: algorithms, structures
-Shortest Word: is
+Shortest Word: are, and
 Average Word Length: 6.00
 Number of Sentences: 2
 Unique Words: 8
