@@ -6,15 +6,12 @@
 
 ### Option 1: Basic Text Analyzer (80%)
 
-Create a text analyzer program where the user inputs a sentence or paragraph and the program analyzes the text.
+Create a text analyzer program where the user inputs a sentence or paragraph and the program analyzes the text.</br>
+The program must follow the following specifications:</br>
 
-The program must follow the following specifications:
-
-Display a welcome message.
-
-Ask the user to input a sentence or paragraph.
-
-Count and output:
+Display a welcome message.</br>
+Ask the user to input a sentence or paragraph.</br>
+Count and output:</br>
 
   - Total number of characters
   - Total number of words
@@ -48,9 +45,8 @@ powerful - 1
 
 ### Option 2: Remove Punctuation and Ignore Common Words (+10%)
 
-Do all of the above but add one extra feature.
-
-Before analyzing the text, remove punctuation from all words.
+Do all of the above but add one extra feature.</br>
+Before analyzing the text, remove punctuation from all words.</br>
 
 For example:
 
@@ -105,7 +101,7 @@ Add the following features:
   - Output the number of sentences
   - Output how many unique words there are
 
-If there are multiple longest, shortest, or most common words, you must output all of them.
+If there are multiple longest, or shortest you must output all of them.
 
 Example Run:
 
